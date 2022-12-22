@@ -1,3 +1,8 @@
 # Utilities
 
-A description of this package.
+These are utility functions that I find useful in most projects.
+
+## What's included?
+
+Property wrapper for environment variables
+
